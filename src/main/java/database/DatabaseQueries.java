@@ -29,7 +29,7 @@ public class DatabaseQueries {    // Save as "JdbcUpdateTest.java"
         try (
                 // Step 1: Allocate a database 'Connection' object
                 Connection conn = DriverManager.getConnection(
-                        "jdbc:mysql://localhost:3306/sknerus?useSSL=false&serverTimezone=UTC", "root", "Bartek82"); // MySQL
+                        "jdbc:mysql://localhost:3306/sknerus?useSSL=false&serverTimezone=UTC", "root", "xxxxxx"); // MySQL
 
                 // Step 2: Allocate a 'Statement' object in the Connection
                 Statement stmt = conn.createStatement();
@@ -69,7 +69,7 @@ public class DatabaseQueries {    // Save as "JdbcUpdateTest.java"
         try (
                 // Step 1: Allocate a database 'Connection' object
                 Connection conn = DriverManager.getConnection(
-                        "jdbc:mysql://localhost:3306/sknerus?useSSL=false&serverTimezone=UTC", "root", "Bartek82"); // MySQL
+                        "jdbc:mysql://localhost:3306/sknerus?useSSL=false&serverTimezone=UTC", "root", "xxxxxx"); // MySQL
 
                 // Step 2: Allocate a 'Statement' object in the Connection
                 Statement stmt = conn.createStatement();
@@ -92,7 +92,7 @@ public class DatabaseQueries {    // Save as "JdbcUpdateTest.java"
         try (
                 // Step 1: Allocate a database 'Connection' object
                 Connection conn = DriverManager.getConnection(
-                        "jdbc:mysql://localhost:3306/sknerus?useSSL=false&serverTimezone=UTC", "root", "Bartek82"); // MySQL
+                        "jdbc:mysql://localhost:3306/sknerus?useSSL=false&serverTimezone=UTC", "root", "xxxxxx"); // MySQL
 
                 // Step 2: Allocate a 'Statement' object in the Connection
                 Statement stmt = conn.createStatement();
@@ -128,7 +128,7 @@ public class DatabaseQueries {    // Save as "JdbcUpdateTest.java"
         try (
                 // Step 1: Allocate a database 'Connection' object
                 Connection conn = DriverManager.getConnection(
-                        "jdbc:mysql://localhost:3306/sknerus?useSSL=false&serverTimezone=UTC", "root", "Bartek82"); // MySQL
+                        "jdbc:mysql://localhost:3306/sknerus?useSSL=false&serverTimezone=UTC", "root", "xxxxxx"); // MySQL
 
                 // Step 2: Allocate a 'Statement' object in the Connection
                 Statement stmt = conn.createStatement();
@@ -163,7 +163,7 @@ public class DatabaseQueries {    // Save as "JdbcUpdateTest.java"
         try (
                 // Step 1: Allocate a database 'Connection' object
                 Connection conn = DriverManager.getConnection(
-                        "jdbc:mysql://localhost:3306/sknerus?useSSL=false&serverTimezone=UTC", "root", "Bartek82"); // MySQL
+                        "jdbc:mysql://localhost:3306/sknerus?useSSL=false&serverTimezone=UTC", "root", "xxxxxx"); // MySQL
 
                 // Step 2: Allocate a 'Statement' object in the Connection
                 Statement stmt = conn.createStatement();
@@ -186,7 +186,7 @@ public class DatabaseQueries {    // Save as "JdbcUpdateTest.java"
         try (
                 // Step 1: Allocate a database 'Connection' object
                 Connection conn = DriverManager.getConnection(
-                        "jdbc:mysql://localhost:3306/sknerus?useSSL=false&serverTimezone=UTC", "root", "Bartek82"); // MySQL
+                        "jdbc:mysql://localhost:3306/sknerus?useSSL=false&serverTimezone=UTC", "root", "xxxxxx"); // MySQL
 
                 // Step 2: Allocate a 'Statement' object in the Connection
                 Statement stmt = conn.createStatement();
@@ -208,7 +208,7 @@ public class DatabaseQueries {    // Save as "JdbcUpdateTest.java"
         try (
                 // Step 1: Allocate a database 'Connection' object
                 Connection conn = DriverManager.getConnection(
-                        "jdbc:mysql://localhost:3306/sknerus?useSSL=false&serverTimezone=UTC", "root", "Bartek82"); // MySQL
+                        "jdbc:mysql://localhost:3306/sknerus?useSSL=false&serverTimezone=UTC", "root", "xxxxxx"); // MySQL
 
                 // Step 2: Allocate a 'Statement' object in the Connection
                 Statement stmt = conn.createStatement();
@@ -234,7 +234,7 @@ public class DatabaseQueries {    // Save as "JdbcUpdateTest.java"
         try (
                 // Step 1: Allocate a database 'Connection' object
                 Connection conn = DriverManager.getConnection(
-                        "jdbc:mysql://localhost:3306/sknerus?useSSL=false&serverTimezone=UTC", "root", "Bartek82"); // MySQL
+                        "jdbc:mysql://localhost:3306/sknerus?useSSL=false&serverTimezone=UTC", "root", "xxxxxx"); // MySQL
 
                 // Step 2: Allocate a 'Statement' object in the Connection
                 Statement stmt = conn.createStatement();
@@ -287,7 +287,7 @@ public class DatabaseQueries {    // Save as "JdbcUpdateTest.java"
         try (
                 // Step 1: Allocate a database 'Connection' object
                 Connection conn = DriverManager.getConnection(
-                        "jdbc:mysql://localhost:3306/sknerus?useSSL=false&serverTimezone=UTC", "root", "Bartek82"); // MySQL
+                        "jdbc:mysql://localhost:3306/sknerus?useSSL=false&serverTimezone=UTC", "root", "xxxxxx"); // MySQL
 
                 // Step 2: Allocate a 'Statement' object in the Connection
                 Statement stmt = conn.createStatement();
@@ -311,7 +311,7 @@ public class DatabaseQueries {    // Save as "JdbcUpdateTest.java"
         try (
                 // Step 1: Allocate a database 'Connection' object
                 Connection conn = DriverManager.getConnection(
-                        "jdbc:mysql://localhost:3306/sknerus?useSSL=false&serverTimezone=UTC", "root", "Bartek82"); // MySQL
+                        "jdbc:mysql://localhost:3306/sknerus?useSSL=false&serverTimezone=UTC", "root", "xxxxxx"); // MySQL
 
                 // Step 2: Allocate a 'Statement' object in the Connection
                 Statement stmt = conn.createStatement();
@@ -345,7 +345,7 @@ public class DatabaseQueries {    // Save as "JdbcUpdateTest.java"
         try (
                 // Step 1: Allocate a database 'Connection' object
                 Connection conn = DriverManager.getConnection(
-                        "jdbc:mysql://localhost:3306/sknerus?useSSL=false&serverTimezone=UTC", "root", "Bartek82"); // MySQL
+                        "jdbc:mysql://localhost:3306/sknerus?useSSL=false&serverTimezone=UTC", "root", "xxxxxx"); // MySQL
 
                 // Step 2: Allocate a 'Statement' object in the Connection
                 Statement stmt = conn.createStatement();
@@ -369,7 +369,7 @@ public class DatabaseQueries {    // Save as "JdbcUpdateTest.java"
         try (
                 // Step 1: Allocate a database 'Connection' object
                 Connection conn = DriverManager.getConnection(
-                        "jdbc:mysql://localhost:3306/sknerus?useSSL=false&serverTimezone=UTC", "root", "Bartek82"); // MySQL
+                        "jdbc:mysql://localhost:3306/sknerus?useSSL=false&serverTimezone=UTC", "root", "xxxxxx"); // MySQL
 
                 // Step 2: Allocate a 'Statement' object in the Connection
                 Statement stmt = conn.createStatement();
